@@ -1,6 +1,6 @@
 name: BIKERLATAM
 favicon: null
-layout_spectrum: 0.90892
+layout_spectrum: 0.53824
 typography_spectrum: 0.31278
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#7d4546'
     - '#a16654'
     - '#6697a6'
-  brandStrength: 0.5
-  lightness: 0.75
-  saturation: 0.625
-  rhythmicContrast: 0.75
+  brandStrength: 0.6875
+  lightness: 0.9375
+  saturation: 0.4375
+  rhythmicContrast: 0
 purpose: []
